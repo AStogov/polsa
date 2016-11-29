@@ -1,1 +1,2 @@
-# polsa
+# Polsa
+This repository is something about algorithm...
